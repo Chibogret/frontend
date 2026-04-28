@@ -1,0 +1,118 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - img [ref=e7]
+      - generic [ref=e10]:
+        - heading "Bansud" [level=1] [ref=e11]
+        - paragraph [ref=e12]: Citizen Services
+    - generic [ref=e13]:
+      - generic [ref=e14]: Official guide
+      - button "Notifications" [ref=e15]:
+        - img
+      - button "Menu" [ref=e16]:
+        - img
+  - main [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - generic [ref=e22]: Municipality of Bansud
+          - generic [ref=e23]:
+            - heading "Find the right municipal service faster." [level=2] [ref=e24]
+            - paragraph [ref=e25]: Check requirements, public advisories, and key office guides before visiting Bansud Municipal Hall.
+          - generic [ref=e26]:
+            - generic [ref=e27]:
+              - img [ref=e28]
+              - generic [ref=e31]: Permits, offices, advisories
+            - link "Start" [ref=e32] [cursor=pointer]:
+              - /url: /requirements
+              - text: Start
+              - img
+        - generic [ref=e33]:
+          - img "Town plaza and municipal grounds in Poblacion." [ref=e34]
+          - heading "Plaza de Bansud" [level=3] [ref=e36]
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - heading "Quick Actions" [level=3] [ref=e40]
+          - generic [ref=e41]:
+            - link "Permit requirements" [ref=e42] [cursor=pointer]:
+              - /url: /requirements
+              - generic [ref=e43]:
+                - img [ref=e45]
+                - img [ref=e48]
+              - heading "Permit requirements" [level=4] [ref=e50]
+            - link "Event announcements" [ref=e51] [cursor=pointer]:
+              - /url: /announcements
+              - generic [ref=e52]:
+                - img [ref=e54]
+                - img [ref=e57]
+              - heading "Event announcements" [level=4] [ref=e59]
+            - link "Municipal services" [ref=e60] [cursor=pointer]:
+              - /url: /services
+              - generic [ref=e61]:
+                - img [ref=e63]
+                - img [ref=e66]
+              - heading "Municipal services" [level=4] [ref=e68]
+            - link "Public advisories" [ref=e69] [cursor=pointer]:
+              - /url: /announcements
+              - generic [ref=e70]:
+                - img [ref=e72]
+                - img [ref=e77]
+              - heading "Public advisories" [level=4] [ref=e79]
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - heading "Most Needed" [level=3] [ref=e82]
+            - link "Browse" [ref=e83] [cursor=pointer]:
+              - /url: /services
+              - text: Browse
+              - img
+          - generic [ref=e84]:
+            - generic [ref=e85]:
+              - generic [ref=e86]:
+                - generic [ref=e87]: Business permit prep
+                - generic [ref=e88]: Prepare your basic documents before visiting the Mayor's Office or Treasurer's Office.
+                - generic [ref=e90]: Permits
+              - paragraph [ref=e92]: Open weekdays
+            - generic [ref=e93]:
+              - generic [ref=e94]:
+                - generic [ref=e95]: Tourism before travel
+                - generic [ref=e96]: Review Plaza de Bansud, the Bansud Museum, Tiguisan Beach, and local events before making the trip.
+                - generic [ref=e98]: Tourism
+              - paragraph [ref=e100]: Visitor guide
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - generic [ref=e104]:
+              - img [ref=e105]
+              - text: Announcements
+            - generic [ref=e107]: Office hours and advisories
+          - link "View updates" [ref=e109] [cursor=pointer]:
+            - /url: /announcements
+            - text: View updates
+            - img
+        - generic [ref=e110]:
+          - generic [ref=e111]:
+            - generic [ref=e112]:
+              - img [ref=e113]
+              - text: Visit Bansud
+            - generic [ref=e117]: Confirm schedules before visiting
+          - link "Office guide" [ref=e119] [cursor=pointer]:
+            - /url: /services
+            - text: Office guide
+            - img
+  - navigation [ref=e120]:
+    - link "Home" [ref=e121] [cursor=pointer]:
+      - /url: /
+      - img [ref=e122]
+      - generic [ref=e124]: Home
+    - link "Services" [ref=e125] [cursor=pointer]:
+      - /url: /services
+      - img [ref=e126]
+      - generic [ref=e129]: Services
+    - link "Alerts" [ref=e130] [cursor=pointer]:
+      - /url: /announcements
+      - img [ref=e131]
+      - generic [ref=e134]: Alerts
+    - link "Requirements" [ref=e135] [cursor=pointer]:
+      - /url: /requirements
+      - img [ref=e136]
+      - generic [ref=e139]: Requirements

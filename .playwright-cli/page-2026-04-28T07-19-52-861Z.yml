@@ -1,0 +1,252 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - img [ref=e7]
+      - generic [ref=e10]:
+        - heading "Bansud" [level=1] [ref=e11]
+        - paragraph [ref=e12]: Citizen Services
+    - generic [ref=e13]:
+      - generic [ref=e14]: Official guide
+      - button "Notifications" [ref=e15]:
+        - img
+      - button "Menu" [ref=e16]:
+        - img
+  - main [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - generic [ref=e23]: Municipality of Bansud
+            - generic [ref=e24]: Public guide
+          - generic [ref=e25]:
+            - heading "Services, advisories, and local guides in one citizen app." [level=2] [ref=e26]
+            - paragraph [ref=e27]: A professional municipal companion for residents and visitors preparing for office visits, public notices, and tourism stops around Bansud.
+          - generic [ref=e28]:
+            - generic [ref=e29]:
+              - img [ref=e30]
+              - generic [ref=e33]: Search permits, offices, advisories
+            - link "Start" [ref=e34] [cursor=pointer]:
+              - /url: /requirements
+              - text: Start
+              - img
+        - generic [ref=e35]:
+          - link "Town plaza and municipal grounds in Poblacion. Plaza de Bansud Town plaza and municipal grounds in Poblacion." [ref=e36] [cursor=pointer]:
+            - /url: https://commons.wikimedia.org/wiki/File:Plaza_de_Bansud.jpg
+            - img "Town plaza and municipal grounds in Poblacion." [ref=e37]
+            - generic [ref=e38]:
+              - heading "Plaza de Bansud" [level=3] [ref=e39]
+              - paragraph [ref=e40]: Town plaza and municipal grounds in Poblacion.
+          - link "Rizal monument and civic open space near municipal services. Municipal hall grounds Rizal monument and civic open space near municipal services." [ref=e41] [cursor=pointer]:
+            - /url: https://commons.wikimedia.org/wiki/File:PLAZA_DE_BANSUD_-_ORIENTAL_MINDORO.jpg
+            - img "Rizal monument and civic open space near municipal services." [ref=e42]
+            - generic [ref=e43]:
+              - heading "Municipal hall grounds" [level=3] [ref=e44]
+              - paragraph [ref=e45]: Rizal monument and civic open space near municipal services.
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - img [ref=e50]
+              - text: Population
+            - generic [ref=e54]: 2020 census
+          - paragraph [ref=e56]: 42,671
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59]:
+              - img [ref=e60]
+              - text: Barangays
+            - generic [ref=e62]: local service areas
+          - paragraph [ref=e64]: "13"
+        - generic [ref=e65]:
+          - generic [ref=e66]:
+            - generic [ref=e67]:
+              - img [ref=e68]
+              - text: Setting
+            - generic [ref=e73]: Sibuyan Sea
+          - paragraph [ref=e75]: Coastal
+      - alert [ref=e76]:
+        - img [ref=e77]
+        - generic [ref=e82]: Today in Bansud
+        - generic [ref=e83]: Check the latest office advisories and tourism announcements before leaving home.
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - heading "Announcements" [level=3] [ref=e87]
+            - paragraph [ref=e88]: Official banners for notices, events, and public safety.
+          - link "View all" [ref=e89] [cursor=pointer]:
+            - /url: /announcements
+            - text: View all
+            - img
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - generic [ref=e93]:
+                - img [ref=e94]
+                - text: Municipal Advisory
+              - generic [ref=e96]: Post banners here for schedule changes, suspended transactions, and special office instructions.
+            - paragraph [ref=e98]: Office hours and advisories
+          - generic [ref=e99]:
+            - generic [ref=e100]:
+              - generic [ref=e101]:
+                - img [ref=e102]
+                - text: Tourism and Culture
+              - generic [ref=e105]: Use this slot for town fiestas, sports meets, public hearings, and civic announcements.
+            - paragraph [ref=e107]: Festival and community events
+          - generic [ref=e108]:
+            - generic [ref=e109]:
+              - generic [ref=e110]:
+                - img [ref=e111]
+                - text: Public Safety
+              - generic [ref=e113]: Highlight weather advisories, safety reminders, and response information for residents.
+            - paragraph [ref=e115]: Emergency updates
+      - generic [ref=e116]:
+        - tablist [ref=e117]:
+          - tab "Services" [selected] [ref=e118]
+          - tab "Tourism" [ref=e119]
+          - tab "Contacts" [ref=e120]
+        - tabpanel "Services" [ref=e121]:
+          - generic [ref=e122]:
+            - generic [ref=e123]:
+              - generic [ref=e124]:
+                - generic [ref=e125]:
+                  - img [ref=e126]
+                  - text: Permits and clearances
+                - generic [ref=e129]: Business permits, Mayor's clearance, registry copies, and front-office guidance.
+              - link "Open section" [ref=e131] [cursor=pointer]:
+                - /url: /requirements
+                - text: Open section
+                - img
+            - generic [ref=e132]:
+              - generic [ref=e133]:
+                - generic [ref=e134]:
+                  - img [ref=e135]
+                  - text: Health and safety
+                - generic [ref=e137]: Medical certificates, consultations, DRRM updates, and emergency reminders.
+              - link "Open section" [ref=e139] [cursor=pointer]:
+                - /url: /services
+                - text: Open section
+                - img
+            - generic [ref=e140]:
+              - generic [ref=e141]:
+                - generic [ref=e142]:
+                  - img [ref=e143]
+                  - text: Tourism and events
+                - generic [ref=e148]: Visitor stops, town culture, festival banners, and community schedules.
+              - link "Open section" [ref=e150] [cursor=pointer]:
+                - /url: /announcements
+                - text: Open section
+                - img
+      - generic [ref=e151]:
+        - generic [ref=e152]:
+          - generic [ref=e153]:
+            - heading "Quick Actions" [level=3] [ref=e154]
+            - generic [ref=e155]: No login
+          - generic [ref=e156]:
+            - link "Permit requirements See what to bring before you visit the municipal office." [ref=e157] [cursor=pointer]:
+              - /url: /requirements
+              - generic [ref=e158]:
+                - img [ref=e160]
+                - img [ref=e163]
+              - heading "Permit requirements" [level=4] [ref=e165]
+              - paragraph [ref=e166]: See what to bring before you visit the municipal office.
+            - link "Event announcements Check banners, schedules, and public notices." [ref=e167] [cursor=pointer]:
+              - /url: /announcements
+              - generic [ref=e168]:
+                - img [ref=e170]
+                - img [ref=e173]
+              - heading "Event announcements" [level=4] [ref=e175]
+              - paragraph [ref=e176]: Check banners, schedules, and public notices.
+            - link "Municipal services Find offices, services, and common requests." [ref=e177] [cursor=pointer]:
+              - /url: /services
+              - generic [ref=e178]:
+                - img [ref=e180]
+                - img [ref=e183]
+              - heading "Municipal services" [level=4] [ref=e185]
+              - paragraph [ref=e186]: Find offices, services, and common requests.
+            - link "Public advisories Read bulletin-style updates without account signups." [ref=e187] [cursor=pointer]:
+              - /url: /announcements
+              - generic [ref=e188]:
+                - img [ref=e190]
+                - img [ref=e195]
+              - heading "Public advisories" [level=4] [ref=e197]
+              - paragraph [ref=e198]: Read bulletin-style updates without account signups.
+        - generic [ref=e199]:
+          - generic [ref=e200]:
+            - heading "Most Needed" [level=3] [ref=e201]
+            - link "Browse" [ref=e202] [cursor=pointer]:
+              - /url: /services
+          - generic [ref=e203]:
+            - generic [ref=e204]:
+              - generic [ref=e205]:
+                - generic [ref=e206]: Business permit prep
+                - generic [ref=e207]: Prepare your basic documents before visiting the Mayor's Office or Treasurer's Office.
+                - generic [ref=e209]: Permits
+              - paragraph [ref=e211]: Open weekdays
+            - generic [ref=e212]:
+              - generic [ref=e213]:
+                - generic [ref=e214]: Tourism before travel
+                - generic [ref=e215]: Review Plaza de Bansud, the Bansud Museum, Tiguisan Beach, and local events before making the trip.
+                - generic [ref=e217]: Tourism
+              - paragraph [ref=e219]: Visitor guide
+            - generic [ref=e220]:
+              - generic [ref=e221]:
+                - generic [ref=e222]: Office directory
+                - generic [ref=e223]: Browse service windows for health, civil registry, tourism, agriculture, and DRRM.
+                - generic [ref=e225]: Directory
+              - paragraph [ref=e227]: Updated guide
+      - generic [ref=e228]:
+        - generic [ref=e229]:
+          - img [ref=e230]
+          - heading "Service Windows" [level=3] [ref=e233]
+        - generic [ref=e234]:
+          - generic [ref=e235]:
+            - generic [ref=e236]:
+              - generic [ref=e237]:
+                - img [ref=e238]
+                - text: Mayor's Office
+              - generic [ref=e240]: Business permits, clearances, and front-office requests.
+            - generic [ref=e241]:
+              - generic [ref=e242]: Mayor's clearance
+              - generic [ref=e243]: Business permit assistance
+              - generic [ref=e244]: General citizen concerns
+          - generic [ref=e245]:
+            - generic [ref=e246]:
+              - generic [ref=e247]:
+                - img [ref=e248]
+                - text: Municipal Health Office
+              - generic [ref=e250]: Medical certificates, consultations, and health-related documents.
+            - generic [ref=e251]:
+              - generic [ref=e252]: Medical certificate
+              - generic [ref=e253]: Checkups
+              - generic [ref=e254]: Pre-natal and family planning support
+          - generic [ref=e255]:
+            - generic [ref=e256]:
+              - generic [ref=e257]:
+                - img [ref=e258]
+                - text: Civil Registrar
+              - generic [ref=e261]: Birth, marriage, and death certificates plus registry requests.
+            - generic [ref=e262]:
+              - generic [ref=e263]: Birth certificate
+              - generic [ref=e264]: Marriage certificate
+              - generic [ref=e265]: Death certificate
+      - alert [ref=e266]:
+        - img [ref=e267]
+        - generic [ref=e270]: Citizen privacy note
+        - generic [ref=e271]: This mock remains an information guide only. It does not collect profiles, accept online applications, process payments, or store uploaded documents.
+  - navigation [ref=e272]:
+    - link "Home" [ref=e273] [cursor=pointer]:
+      - /url: /
+      - img [ref=e274]
+      - generic [ref=e276]: Home
+    - link "Services" [ref=e277] [cursor=pointer]:
+      - /url: /services
+      - img [ref=e278]
+      - generic [ref=e281]: Services
+    - link "Alerts" [ref=e282] [cursor=pointer]:
+      - /url: /announcements
+      - img [ref=e283]
+      - generic [ref=e286]: Alerts
+    - link "Requirements" [ref=e287] [cursor=pointer]:
+      - /url: /requirements
+      - img [ref=e288]
+      - generic [ref=e291]: Requirements

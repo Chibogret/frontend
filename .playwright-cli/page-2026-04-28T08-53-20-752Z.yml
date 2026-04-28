@@ -1,0 +1,238 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - img [ref=e7]
+        - generic [ref=e10]:
+          - heading "Bansud" [level=1] [ref=e11]
+          - paragraph [ref=e12]: Citizen Services
+      - generic [ref=e13]:
+        - generic [ref=e14]: Official guide
+        - button "Notifications" [ref=e15]:
+          - img
+        - button "Menu" [ref=e16]:
+          - img
+    - main [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e21]:
+            - generic [ref=e22]: Municipal directory
+            - generic [ref=e23]:
+              - heading "Services" [level=2] [ref=e24]
+              - paragraph [ref=e25]: Find the right office, what each desk handles, and what to prepare before visiting municipal hall.
+            - link "Browse offices" [ref=e26] [cursor=pointer]:
+              - /url: "#office-directory"
+              - text: Browse offices
+              - img
+          - generic [ref=e27]:
+            - alert [ref=e28]:
+              - img [ref=e29]
+              - generic [ref=e32]: Office hours
+              - generic [ref=e33]: Most offices are open Mon - Fri, 8:00 AM - 5:00 PM.
+            - alert [ref=e34]:
+              - img [ref=e35]
+              - generic [ref=e39]: Before visiting
+              - generic [ref=e40]: Check the request requirements and bring valid ID.
+        - generic [ref=e41]:
+          - link "Get a permit or clearance Business permits, Mayor's clearance, and front-office requests." [ref=e42] [cursor=pointer]:
+            - /url: "#mayors-office"
+            - generic [ref=e43]:
+              - img
+            - generic [ref=e44]:
+              - generic [ref=e45]: Get a permit or clearance
+              - generic [ref=e46]: Business permits, Mayor's clearance, and front-office requests.
+          - link "Request a civil record Birth, marriage, death, and registry document guidance." [ref=e47] [cursor=pointer]:
+            - /url: "#civil-registrar"
+            - generic [ref=e48]:
+              - img
+            - generic [ref=e49]:
+              - generic [ref=e50]: Request a civil record
+              - generic [ref=e51]: Birth, marriage, death, and registry document guidance.
+          - link "Ask where to start Use the directory to find the right office before queueing." [ref=e52] [cursor=pointer]:
+            - /url: "#office-directory"
+            - generic [ref=e53]:
+              - img
+            - generic [ref=e54]:
+              - generic [ref=e55]: Ask where to start
+              - generic [ref=e56]: Use the directory to find the right office before queueing.
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59]:
+              - heading "Office directory" [level=3] [ref=e60]
+              - paragraph [ref=e61]: Choose the office that matches your request.
+            - generic [ref=e62]: 6 offices
+          - generic [ref=e63]:
+            - generic [ref=e64]:
+              - generic [ref=e65]:
+                - img [ref=e67]
+                - text: Mayor's Office
+              - generic [ref=e69]: Business permits, clearances, and front-office requests.
+              - generic [ref=e70]:
+                - generic [ref=e71]: Service desk
+                - generic [ref=e72]:
+                  - img [ref=e73]
+                  - text: Mon - Fri, 8:00 AM - 5:00 PM
+            - generic [ref=e77]:
+              - generic [ref=e78]:
+                - paragraph [ref=e79]: Start here for general permits, clearances, and routing to the correct desk.
+                - generic [ref=e80]:
+                  - generic [ref=e81]: Mayor's clearance
+                  - generic [ref=e82]: Business permit assistance
+                  - generic [ref=e83]: General citizen concerns
+              - generic [ref=e84]:
+                - generic [ref=e85]:
+                  - img [ref=e86]
+                  - text: Prepare before you go
+                - paragraph [ref=e89]: Valid ID, request purpose, and supporting documents
+                - link "Open requirements" [ref=e90] [cursor=pointer]:
+                  - /url: /requirements
+                  - text: Open requirements
+                  - img
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - generic [ref=e93]:
+                - img [ref=e95]
+                - text: Municipal Health Office
+              - generic [ref=e97]: Medical certificates, consultations, and health-related documents.
+              - generic [ref=e98]:
+                - generic [ref=e99]: Service desk
+                - generic [ref=e100]:
+                  - img [ref=e101]
+                  - text: Mon - Fri, 8:00 AM - 5:00 PM
+            - generic [ref=e105]:
+              - generic [ref=e106]:
+                - paragraph [ref=e107]: Arrive early for consultation windows and bring any previous health records.
+                - generic [ref=e108]:
+                  - generic [ref=e109]: Medical certificate
+                  - generic [ref=e110]: Checkups
+                  - generic [ref=e111]: Pre-natal and family planning support
+              - generic [ref=e112]:
+                - generic [ref=e113]:
+                  - img [ref=e114]
+                  - text: Prepare before you go
+                - paragraph [ref=e117]: Valid ID and consultation details
+                - link "Open requirements" [ref=e118] [cursor=pointer]:
+                  - /url: /requirements
+                  - text: Open requirements
+                  - img
+          - generic [ref=e119]:
+            - generic [ref=e120]:
+              - generic [ref=e121]:
+                - img [ref=e123]
+                - text: Civil Registrar
+              - generic [ref=e126]: Birth, marriage, and death certificates plus registry requests.
+              - generic [ref=e127]:
+                - generic [ref=e128]: Service desk
+                - generic [ref=e129]:
+                  - img [ref=e130]
+                  - text: Mon - Fri, 8:00 AM - 5:00 PM
+            - generic [ref=e134]:
+              - generic [ref=e135]:
+                - paragraph [ref=e136]: Bring exact names, dates, and authorization when requesting for someone else.
+                - generic [ref=e137]:
+                  - generic [ref=e138]: Birth certificate
+                  - generic [ref=e139]: Marriage certificate
+                  - generic [ref=e140]: Death certificate
+              - generic [ref=e141]:
+                - generic [ref=e142]:
+                  - img [ref=e143]
+                  - text: Prepare before you go
+                - paragraph [ref=e146]: Requestor details and authorization if needed
+                - link "Open requirements" [ref=e147] [cursor=pointer]:
+                  - /url: /requirements
+                  - text: Open requirements
+                  - img
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - generic [ref=e150]:
+                - img [ref=e152]
+                - text: Tourism and Culture
+              - generic [ref=e157]: Visitor guidance, destination information, and local highlights before going to town.
+              - generic [ref=e158]:
+                - generic [ref=e159]: Service desk
+                - generic [ref=e160]:
+                  - img [ref=e161]
+                  - text: Mon - Sun, 8:00 AM - 6:00 PM
+            - generic [ref=e165]:
+              - generic [ref=e166]:
+                - paragraph [ref=e167]: Use this office for destination guidance, cultural events, and visitor questions.
+                - generic [ref=e168]:
+                  - generic [ref=e169]: Bansud Museum
+                  - generic [ref=e170]: Tiguisan Beach
+                  - generic [ref=e171]: Plaza de Bansud
+                  - generic [ref=e172]: Basudani Festival
+              - generic [ref=e173]:
+                - generic [ref=e174]:
+                  - img [ref=e175]
+                  - text: Prepare before you go
+                - paragraph [ref=e178]: Travel date, destination, and group details when available
+                - link "Open requirements" [ref=e179] [cursor=pointer]:
+                  - /url: /requirements
+                  - text: Open requirements
+                  - img
+          - generic [ref=e180]:
+            - generic [ref=e181]:
+              - generic [ref=e182]:
+                - img [ref=e184]
+                - text: Agriculture Office
+              - generic [ref=e186]: Support for farmers, livestock concerns, and field coordination.
+              - generic [ref=e187]:
+                - generic [ref=e188]: Service desk
+                - generic [ref=e189]:
+                  - img [ref=e190]
+                  - text: Mon - Fri, 8:00 AM - 5:00 PM
+            - generic [ref=e194]:
+              - generic [ref=e195]:
+                - paragraph [ref=e196]: Prepare barangay, farm, or livelihood details so staff can route the concern.
+                - generic [ref=e197]:
+                  - generic [ref=e198]: Farmer assistance
+                  - generic [ref=e199]: Livelihood support
+                  - generic [ref=e200]: Field services
+              - generic [ref=e201]:
+                - generic [ref=e202]:
+                  - img [ref=e203]
+                  - text: Prepare before you go
+                - paragraph [ref=e206]: Valid ID and relevant farm or livestock information
+                - link "Open requirements" [ref=e207] [cursor=pointer]:
+                  - /url: /requirements
+                  - text: Open requirements
+                  - img
+          - generic [ref=e208]:
+            - generic [ref=e209]:
+              - generic [ref=e210]:
+                - img [ref=e212]
+                - text: DRRM and Public Safety
+              - generic [ref=e214]: Emergency response, preparedness, and assistance during disruptions.
+              - generic [ref=e215]:
+                - generic [ref=e216]: Service desk
+                - generic [ref=e217]:
+                  - img [ref=e218]
+                  - text: 24/7 Operations
+            - generic [ref=e222]:
+              - generic [ref=e223]:
+                - paragraph [ref=e224]: For immediate incidents, contact emergency response channels instead of waiting for office hours.
+                - generic [ref=e225]:
+                  - generic [ref=e226]: Emergency hotline
+                  - generic [ref=e227]: Risk advisories
+                  - generic [ref=e228]: Response coordination
+              - generic [ref=e229]:
+                - generic [ref=e230]:
+                  - img [ref=e231]
+                  - text: Prepare before you go
+                - paragraph [ref=e234]: Location, contact number, and incident details
+                - link "Open requirements" [ref=e235] [cursor=pointer]:
+                  - /url: /requirements
+                  - text: Open requirements
+                  - img
+        - generic [ref=e236]:
+          - generic [ref=e237]:
+            - generic [ref=e238]:
+              - img [ref=e239]
+              - text: Visit prepared
+            - generic [ref=e242]: Requirements differ by office. Start with the checklist to avoid repeat trips.
+          - link "Open requirements" [ref=e244] [cursor=pointer]:
+            - /url: /requirements
+            - text: Open requirements
+            - img
+  - button "Open Next.js Dev Tools" [ref=e250] [cursor=pointer]:
+    - img [ref=e251]

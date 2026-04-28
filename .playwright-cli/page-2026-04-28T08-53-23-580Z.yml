@@ -1,0 +1,122 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - img [ref=e7]
+        - generic [ref=e10]:
+          - heading "Bansud" [level=1] [ref=e11]
+          - paragraph [ref=e12]: Citizen Services
+      - generic [ref=e13]:
+        - generic [ref=e14]: Official guide
+        - button "Notifications" [ref=e15]:
+          - img
+        - button "Menu" [ref=e16]:
+          - img
+    - main [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - heading "Quick Actions" [level=3] [ref=e22]
+            - generic [ref=e23]:
+              - link "Permit requirements" [ref=e24] [cursor=pointer]:
+                - /url: /requirements
+                - generic [ref=e25]:
+                  - img [ref=e27]
+                  - img [ref=e30]
+                - heading "Permit requirements" [level=4] [ref=e32]
+              - link "Event announcements" [ref=e33] [cursor=pointer]:
+                - /url: /announcements
+                - generic [ref=e34]:
+                  - img [ref=e36]
+                  - img [ref=e39]
+                - heading "Event announcements" [level=4] [ref=e41]
+              - link "Municipal services" [ref=e42] [cursor=pointer]:
+                - /url: /services
+                - generic [ref=e43]:
+                  - img [ref=e45]
+                  - img [ref=e48]
+                - heading "Municipal services" [level=4] [ref=e50]
+              - link "Public advisories" [ref=e51] [cursor=pointer]:
+                - /url: /announcements
+                - generic [ref=e52]:
+                  - img [ref=e54]
+                  - img [ref=e59]
+                - heading "Public advisories" [level=4] [ref=e61]
+          - generic [ref=e62]:
+            - generic [ref=e63]:
+              - generic [ref=e64]:
+                - heading "Announcements" [level=3] [ref=e65]
+                - link "View all" [ref=e66] [cursor=pointer]:
+                  - /url: /announcements
+                  - text: View all
+                  - img
+              - generic [ref=e67]:
+                - generic [ref=e69]:
+                  - generic [ref=e70]:
+                    - generic [ref=e71]:
+                      - img [ref=e72]
+                      - text: Today's bulletin
+                    - generic [ref=e75]: Business permit preparation week
+                    - generic [ref=e76]: Residents renewing business permits should prepare IDs, previous permit details, and barangay clearance when required before visiting the Mayor's Office.
+                  - generic [ref=e77]: Priority
+                - generic [ref=e78]:
+                  - generic [ref=e79]:
+                    - generic [ref=e80]:
+                      - img [ref=e81]
+                      - text: This week
+                    - generic [ref=e84]: Mayor's Office and Treasurer's Office
+                  - link "Check requirements" [ref=e85] [cursor=pointer]:
+                    - /url: /requirements
+                    - text: Check requirements
+                    - img
+                  - generic [ref=e86]:
+                    - link "Civil registry requests Reminder Bring authorization if requesting a birth, marriage, or death record for another person. Mon - Fri, 8AM - 5PM - Civil Registrar" [ref=e87] [cursor=pointer]:
+                      - /url: /services
+                      - img [ref=e89]
+                      - generic [ref=e92]:
+                        - generic [ref=e93]:
+                          - paragraph [ref=e94]: Civil registry requests
+                          - generic [ref=e95]: Reminder
+                        - paragraph [ref=e96]: Bring authorization if requesting a birth, marriage, or death record for another person.
+                        - paragraph [ref=e97]: Mon - Fri, 8AM - 5PM - Civil Registrar
+                    - link "Health office consultations Advisory Medical certificate requests may require consultation details and office forms. Weekday schedule - Municipal Health Office" [ref=e98] [cursor=pointer]:
+                      - /url: /requirements
+                      - img [ref=e100]
+                      - generic [ref=e102]:
+                        - generic [ref=e103]:
+                          - paragraph [ref=e104]: Health office consultations
+                          - generic [ref=e105]: Advisory
+                        - paragraph [ref=e106]: Medical certificate requests may require consultation details and office forms.
+                        - paragraph [ref=e107]: Weekday schedule - Municipal Health Office
+            - generic [ref=e108]:
+              - generic [ref=e109]:
+                - heading "Most Needed" [level=3] [ref=e110]
+                - link "Browse" [ref=e111] [cursor=pointer]:
+                  - /url: /services
+                  - text: Browse
+                  - img
+              - generic [ref=e112]:
+                - generic [ref=e113]:
+                  - generic [ref=e114]:
+                    - generic [ref=e115]: Business permit prep
+                    - generic [ref=e116]: Prepare your basic documents before visiting the Mayor's Office or Treasurer's Office.
+                    - generic [ref=e118]: Permits
+                  - paragraph [ref=e120]: Mon - Fri, 8AM - 5PM
+                - generic [ref=e121]:
+                  - generic [ref=e122]:
+                    - generic [ref=e123]: Tourism before travel
+                    - generic [ref=e124]: Review Plaza de Bansud, the Bansud Museum, Tiguisan Beach, and local events before making the trip.
+                    - generic [ref=e126]: Tourism
+                  - paragraph [ref=e128]: Daily, 8AM - 6PM
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - generic [ref=e132]:
+              - img [ref=e133]
+              - text: Visit Bansud
+            - generic [ref=e137]: Open Mon-Fri, 8AM - 5PM
+          - link "Office guide" [ref=e139] [cursor=pointer]:
+            - /url: /services
+            - text: Office guide
+            - img
+  - button "Open Next.js Dev Tools" [ref=e145] [cursor=pointer]:
+    - img [ref=e146]
